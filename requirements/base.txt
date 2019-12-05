@@ -1,0 +1,2 @@
+#https://github.com/loanzen/falcon-auth
+falcon-auth[backend-hawk,backend-jwt]
